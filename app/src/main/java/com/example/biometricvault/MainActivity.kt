@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.activity.enableEdgeToEdge
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import androidx.navigation.ui.AppBarConfiguration
 import androidx.appcompat.app.AppCompatDelegate
 import com.example.biometricvault.databinding.ActivityMainBinding
 
